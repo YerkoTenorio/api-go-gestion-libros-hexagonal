@@ -242,11 +242,5 @@ go generate ./...
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-## 📞 Contacto
-
-- [GitHub Issues](https://github.com/tu-usuario/api-go-gestion-libros-hexagonal/issues)
-- Email: tu-email@ejemplo.com
-
----
 
 **Nota**: Este proyecto es un ejemplo educativo de arquitectura hexagonal en Go. Puede ser utilizado como base para proyectos más complejos.
